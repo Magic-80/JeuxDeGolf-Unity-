@@ -7,7 +7,9 @@ Ce jeu est conçu pour être amusant et relaxant, avec des contrôles simples et
 
 Voici un aperçu de mon jeu de golf développé avec Unity :
 
-![Aperçu du Golf Game](assets/apercu-jeu.png)
+![Aperçu du Gamplay](apercuGamplay.png)
+
+![Aperçu du Menu du jeux](apercuMenu.png)
 
 # ✨ Caractéristiques
 Parcours variés : Plusieurs parcours avec des obstacles uniques pour un défi renouvelé à chaque partie.
