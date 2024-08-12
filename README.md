@@ -3,6 +3,11 @@ Bienvenue dans mon projet personnel de jeu de golf développé avec Unity. Il s'
 
 # 🎮 Aperçu
 Ce jeu est conçu pour être amusant et relaxant, avec des contrôles simples et des parcours variés. Vous pouvez ajuster la puissance et la direction de vos tirs pour naviguer à travers des obstacles et des terrains différents.
+## 🖼️ Aperçu du Jeu
+
+Voici un aperçu de mon jeu de golf développé avec Unity :
+
+![Aperçu du Golf Game](assets/apercu-jeu.png)
 
 # ✨ Caractéristiques
 Parcours variés : Plusieurs parcours avec des obstacles uniques pour un défi renouvelé à chaque partie.
