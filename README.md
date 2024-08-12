@@ -1,5 +1,6 @@
 #⛳ Golf Game
-Bienvenue dans mon projet personnel de jeu de golf développé avec Unity. Il s'agit d'un jeu de mini-golf 3D où le but est de réussir à mettre la balle dans le trou en un minimum de coups.
+
+
 
 #🎮 Aperçu
 Ce jeu est conçu pour être amusant et relaxant, avec des contrôles simples et des parcours variés. Vous pouvez ajuster la puissance et la direction de vos tirs pour naviguer à travers des obstacles et des terrains différents.
